@@ -1,0 +1,10 @@
+title: 我的个人博客
+author: ssg284
+url: https://ssg284.github.io
+baseurl: ""
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
